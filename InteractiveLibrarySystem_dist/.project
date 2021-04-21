@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>InteractiveLibrarySystem_dist</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>doc</name>
+			<type>2</type>
+			<location>D:/BCU/Year 2/Object Oriented Programming/Assessment/InteractiveLibrarySystem_dist/InteractiveLibrarySystem_dist/Library system javadoc</location>
+		</link>
+	</linkedResources>
+</projectDescription>

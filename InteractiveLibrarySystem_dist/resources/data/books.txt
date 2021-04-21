@@ -1,0 +1,12 @@
+1::Pride and Prejudice::Jane Austen::1813::Publiher1::false::
+2::Nineteen Eighty-Four::George Orwell::1949::Publiher2::false::
+3::The Hitchhiker's Guide to the Galaxy::Douglas Adams::1979::::false::
+4::The War of The Worlds::H.G. Wells::1898::Publiher1::false::
+5::new book::kostas::2019::Publiher1::false::
+6::test property column::test::2020::testing::false::
+7::test::test::::test::false::
+8::Demon dintest::Daived wiliams::2018::HarperCollins::false::
+9::kjhbjk::jnjk::2165::jkhjk::true::
+10::saS::SAs::15::JKHJKB::true::
+11::dsada::rewrew::2121::ferfe::true::
+12::ewqe::eqwe::::ewqeqw::false::
